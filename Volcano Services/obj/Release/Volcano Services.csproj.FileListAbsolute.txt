@@ -1,0 +1,6 @@
+C:\Users\hyt18\source\repos\Volcano Services\Volcano Services\bin\Release\Volcano Services.exe.config
+C:\Users\hyt18\source\repos\Volcano Services\Volcano Services\bin\Release\Volcano Services.exe
+C:\Users\hyt18\source\repos\Volcano Services\Volcano Services\obj\Release\Volcano Services.csproj.AssemblyReference.cache
+C:\Users\hyt18\source\repos\Volcano Services\Volcano Services\obj\Release\Volcano Services.csproj.SuggestedBindingRedirects.cache
+C:\Users\hyt18\source\repos\Volcano Services\Volcano Services\obj\Release\Volcano Services.csproj.CoreCompileInputs.cache
+C:\Users\hyt18\source\repos\Volcano Services\Volcano Services\obj\Release\Volcano Services.exe
